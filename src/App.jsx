@@ -14,7 +14,7 @@ import Testimonial from "./components/Testimonial";
 const App = () => {
   useEffect(() => {
     AOS.init({
-      offset: 300,
+      offset: 120,
       duration: 800,
       once: false,
     });
