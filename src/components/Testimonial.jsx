@@ -36,7 +36,6 @@ const Testimonial = () => {
               key={id}
               data-aos="fade-up"
               data-aos-delay={delay}
-              data-aos-offset="600"
               className="p-8 bg-gradient-to-tl from-[#14101D] via-[#14101D] to-[#ffffff4f] rounded-[20px] flex flex-col justify-evenly lg:from-transparent lg:via-transparent lg:to-transparent lg:hover:from-[#14101D] lg:hover:via-[#14101D] lg:hover:to-[#ffffff4f] lg:h-[395px] lg:p-12 lg:w-1/3"
             >
               <div className="mb-8">

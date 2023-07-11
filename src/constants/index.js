@@ -109,6 +109,7 @@ export const stats = [
 export const footerLinks = [
   {
     title: "Useful Links",
+    delay: "null",
     links: [
       {
         name: "Content",
@@ -134,6 +135,7 @@ export const footerLinks = [
   },
   {
     title: "Community",
+    delay: "200",
     links: [
       {
         name: "Help Center",
@@ -159,6 +161,7 @@ export const footerLinks = [
   },
   {
     title: "Partner",
+    delay: "400",
     links: [
       {
         name: "Our Partner",

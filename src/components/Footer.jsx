@@ -41,7 +41,7 @@ const Footer = () => {
       {/* <!-- sub-footer end --> */}
       {/* <!-- footer sopyright--> */}
       <div className="mx-6 py-4 flex flex-col border-t border-textcolor gap-4 text-center items-center lg:text-left lg:items-start lg:flex-row lg:justify-between">
-        <div data-aos="fade-up" data-aos-offset="120">
+        <div data-aos="fade-up">
           <p className="text-textcolor text-lg">
             Copyright Ⓒ 2022 Zihad. Developed by WEB BANAI.
           </p>
